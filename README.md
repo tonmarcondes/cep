@@ -1,4 +1,4 @@
-# Estudo de uso de API JS
+# Estudo de uso de API JS ![](./img/javascript.png)
 Os testes foram realizados com o uso das funções `Assync` & `Await`
 
 - [API Via Cep](https://viacep.com.br)
