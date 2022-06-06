@@ -6,3 +6,5 @@ Os testes foram realizados com o uso das funções `Assync` & `Await`
 - Atomatização da busca dos campos
 
 > O seguinte estudo foi de muito proveito por proporcionar um maior entendimento das _Promisses_ e da organização do `window.load`
+
+:strong:
